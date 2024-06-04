@@ -47,7 +47,7 @@ nav ul li a{
 }
 nav ul li a.active,
 nav ul li a:hover{
-  color: rgb(128, 128, 128);
+  color: rgb(255, 255, 255);
 }
 nav ul li .flag {
   width: 40px;
@@ -68,14 +68,14 @@ nav ul li .flag img {
   color: black;
 }
 .ccolor:hover{
-  background-color: #000000;
+  background-color: rgb(229, 255, 0);
   /* background-color: transparent; */
-  color: rgb(255, 255, 255);
+  color: rgb(7, 7, 7);
 }
 
 .ccolor2{
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #000000;
+  color: #ffffff;
 }
  /* .ccolor2:hover{
  background-color: #dda20d; 
